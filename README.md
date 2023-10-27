@@ -48,6 +48,9 @@
  <h1>Menu-Page</h1>   
      <img src="https://i.imgur.com/82K5VeM.png"  alt="homepage" />
      
+ <h1>Google-Auth-page</h1>   
+     <img src="https://i.imgur.com/xj2jzQF.png"  alt="homepage" />
+      
  
   <h1>Dark Mode</h1>
    <table>
