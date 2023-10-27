@@ -61,13 +61,14 @@
   <tbody>
     <tr>
   <td>  <img src="https://i.imgur.com/bEPsfvX.png"  alt="homepage" /></td>
+  <td>  <img src="https://i.imgur.com/0kWOulY.png"  alt="homepage" /></td>
  
   </tr>
   
    <h1>Menu-Page</h1>   
      <img src="https://i.imgur.com/TnhwLZW.png"  alt="homepage" />
     
- 
+  
  
   </tbody>
   
